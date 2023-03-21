@@ -14,7 +14,7 @@ This project aims to contribute data-driven evidence to the local school board o
 
 ## Summary and conclusions 
 
-- The total budget for the school district, which contains 15 schools, is $82,932,329,558.0 and enlists a total of 39,170. The average math score, the average reading score, and the percentage of the overall passing rate are 78.96, 81.88, and 80.43%. 
+- The total budget for the school district, which contains 15 schools, is $82,932,329,558.0 and enlists a total of 39,170. The average math score, the average reading score, and the percentage of the overall passing rate are 78.96, 81.88, and 80.43% respectively. 
 
 - Wilson High School has the highest overall passing rate, while Rodriguez High School has the lowest overall passing rate, even though Wilson High school received a larger budget than Rodriguez High School. 
 
